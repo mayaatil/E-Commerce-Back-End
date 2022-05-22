@@ -6,11 +6,12 @@ This application focuses on structuring the back end for an e-commerce site, whi
 
 ## Screenshot
 
+![The E-Commerce Back End application displays GET, POST, PUT, and DELETE routes tested in ThunderClients.](./images/)
+
 ## Link to Demo Walkthrough
+
+https://drive.google.com/file/d/1J2VcQSsYHbcgDtbmz359fZCoEPgzTduu/view
 
 ## Link to Applications
 
-- Here is the repo : [mayaatil/repo](https://github.com/mayaatil/
-  E-Commerce-Back-End)
-- Here is Heroku: [mayaatil/heroku](https://mayaatil.github.io/
-  E-Commerce-Back-End/)
+- Repo : [mayaatil/repo](https://github.com/mayaatil/E-Commerce-Back-End)
